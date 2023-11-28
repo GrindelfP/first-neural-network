@@ -1,0 +1,7 @@
+= First Neural Network: Iris Classification =
+
+== Description ==
+
+NOTE: Created base on this article: https://habr.com/ru/companies/ruvds/articles/679988/[#1 Нейронные сети для начинающих. Решение задачи классификации Ирисов Фишера].
+
+This is a simple neural network that classifies Iris flowers into three species based their characteristics.
